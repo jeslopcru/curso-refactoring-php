@@ -1,0 +1,8 @@
+{
+    "name": "jeslopcru/refactoring-essential",
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
