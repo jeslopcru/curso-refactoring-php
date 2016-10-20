@@ -18,5 +18,5 @@ Es un cliente PHP que ataca a la API [the cat api](http://thecatapi.com/) Esta k
 ## 04 Naming
 Detenernos un momento a pensar los nombres de las variables es fundamental y lo demostramos enfrentandonos a esta aplicación, de la que en un primer momento no sabemos nada. Poco a poco iremos descubriendo cual es la funcionalidad de la aplicación.
 
-## 04 Naming
+## 05 Old school
 Proyecto legacy donde podemos prácticar nuestras habilidades, sobre todo el autoload
